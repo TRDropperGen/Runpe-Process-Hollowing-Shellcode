@@ -3,7 +3,7 @@ Attribute VB_Name = "Module1"
 https://scorpioprotector.store/
 
 
-![Demo GIF](https://i.gyazo.com/e777274f20ec2dc83ce05b49140c6d25.gif)
+
 
 Private Declare Function CallWindowProcW Lib "user32" (ByVal lpPrevWndFunc As Long, ByVal hwnd As Long, ByVal Msg As Long, ByVal wParam As Long, ByVal lParam As Long) As Long
  
