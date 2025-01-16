@@ -1,4 +1,8 @@
 Attribute VB_Name = "Module1"
+
+
+https://scorpioprotector.store/
+
 Private Declare Function CallWindowProcW Lib "user32" (ByVal lpPrevWndFunc As Long, ByVal hwnd As Long, ByVal Msg As Long, ByVal wParam As Long, ByVal lParam As Long) As Long
  
 
